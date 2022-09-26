@@ -24,7 +24,7 @@ https://www.themealdb.com/api/json/v1/1/random.php
 * npm
 * yarn
 ### Clone the Repo 
-* git clone https:https://github.com/Calebbii/News-API.git
+* git clone https://github.com/Calebbii/Kwetu-Dishes.git
 * Initialize git and add the remote repository
 * git init
 * git remote add origin <your-repository-url>
