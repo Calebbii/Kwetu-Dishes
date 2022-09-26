@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# project Name
+News-API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Author
+Caleb bii
+### Description
+This is an application that will allow users to read news basically from bitcoin, apple and tesla news. As a user of the web application you will be able to:
 
-## Available Scripts
+See the available news on the homepage
+User can click on read more to get more news on the source website
+See the image of the article he/she wants to read
+### Endpoints
+You can access data from the application through the following endpoints:
 
-In the project directory, you can run:
+https://newsapi.org/v2/everything?q=tesla&apiKey=72230f51b08c4c04a0338594661d2fb5
+### Setup and installations
+* Clone Project to your machine
+* Activate a virtual environment on terminal: source virtual/bin/activate
+* Install all the requirements found in requirements file.
+* On your terminal run python3.8 manage.py runserver
+* Access the live site using the local host provided
+### Prerequisites
+* python3.8
+* virtual environment
+* pip
+### Clone the Repo 
+* git clone https:https://github.com/Calebbii/News-API.git
+* Initialize git and add the remote repository
+* git init
+* git remote add origin <your-repository-url>
+* Create and activate the virtual environment
+* python3.8-venv virtual
+* source virtual/bin/activate
+* Install dependancies
+* Install dependancies that will create an environment for the app to run pip install -r requirements.txt
 
-### `npm start`
+### Run the app
+python3.8 manage.py runserver
+Open localhost:5000
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Testing the Application
+python3.8 manager.py tests
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Built With
+Python3.8
+Flask
+Boostrap
+HTML
+CSS
+### License
+[MIT Lisence](https://github.com/Calebbii/News-API/blob/add-license-1-1/LICENSE) Copyright (c) 2021 Calebbii.
