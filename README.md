@@ -1,5 +1,4 @@
 # Qwetu Dishes
-Qwetu Dishes
 
 ## Author
 Caleb bii
