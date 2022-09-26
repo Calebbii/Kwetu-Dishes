@@ -1,4 +1,4 @@
-# Project Name
+# Qwetu Dishes
 Qwetu Dishes
 
 ## Author
