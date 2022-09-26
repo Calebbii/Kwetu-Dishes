@@ -28,15 +28,12 @@ https://www.themealdb.com/api/json/v1/1/random.php
 * Initialize git and add the remote repository
 * git init
 * git remote add origin <your-repository-url>
-* Create and activate the virtual environment
-* python3.8-venv virtual
-* source virtual/bin/activate
+* Run npm install
 * Install dependancies
-* Install dependancies that will create an environment for the app to run pip install -r requirements.txt
 
 ### Run the app
-npm start
-Open localhost:3000
+*npm start
+*Open localhost:3000
 
 
 ### Built With
