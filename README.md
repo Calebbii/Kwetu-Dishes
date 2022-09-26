@@ -48,4 +48,4 @@ Boostrap
 HTML
 CSS
 ### License
-[MIT Lisence](https://github.com/Calebbii/News-API/blob/add-license-1-1/LICENSE) Copyright (c) 2021 Calebbii.
+[MIT Lisence](https://github.com/Calebbii/Kwetu-Dishes/blob/master/LICENSE) Copyright (c) 2021 Calebbii.
