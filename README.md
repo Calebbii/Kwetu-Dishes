@@ -32,8 +32,8 @@ https://www.themealdb.com/api/json/v1/1/random.php
 * Install dependancies
 
 ### Run the app
-*npm start
-*Open localhost:3000
+* npm start
+* Open localhost:3000
 
 
 ### Built With
