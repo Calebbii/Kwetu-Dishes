@@ -1,5 +1,5 @@
-# project Name
-News-API
+# Project Name
+Qwetu Dishes
 
 ## Author
 Caleb bii
