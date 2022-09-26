@@ -15,9 +15,8 @@ https://www.themealdb.com/api/json/v1/1/random.php
 
 ### Setup and installations
 * Clone Project to your machine
-* Activate a virtual environment on terminal: source virtual/bin/activate
-* Install all the requirements found in requirements file.
-* On your terminal run python3.8 manage.py runserver
+* Run npm install
+* Install all the requirements and dependancies
 * Access the live site using the local host provided
 ### Prerequisites
 * Node.js
