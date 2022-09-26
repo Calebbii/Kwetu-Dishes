@@ -4,11 +4,10 @@ Qwetu Dishes
 ## Author
 Caleb bii
 ### Description
-This is an application that will allow users to read news basically from bitcoin, apple and tesla news. As a user of the web application you will be able to:
+This is an application where users can search for their meal and make an order. As a user of the web application you will be able to:
+* See the available meals on the homepage
+* Search for a certain category of meals
 
-See the available news on the homepage
-User can click on read more to get more news on the source website
-See the image of the article he/she wants to read
 ### Endpoints
 You can access data from the application through the following endpoints:
 https://www.themealdb.com/api/json/v1/1/random.php
