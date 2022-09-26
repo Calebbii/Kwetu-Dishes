@@ -35,15 +35,12 @@ https://newsapi.org/v2/everything?q=tesla&apiKey=72230f51b08c4c04a0338594661d2fb
 * Install dependancies that will create an environment for the app to run pip install -r requirements.txt
 
 ### Run the app
-python3.8 manage.py runserver
-Open localhost:5000
+npm start
+Open localhost:3000
 
-### Testing the Application
-python3.8 manager.py tests
 
 ### Built With
-Python3.8
-Flask
+React
 Boostrap
 HTML
 CSS
