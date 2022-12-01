@@ -1,7 +1,7 @@
 /*Navigation*/
 nav{
     display: flex;
-    background-color: #c5d2c7;
+    background-color: #f9c9a2;
     height: 50px;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,7 @@ nav{
   .dropdown_content {
     display: none;
     position: absolute;
-    background-color: #c5d2c7;
+    background-color: #f9c9a2;
     z-index: 10;
     width: 160px;
     padding: 10px;
