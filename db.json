@@ -1,0 +1,29 @@
+{
+    "meals": [
+      {
+        "id": 1,
+        "title": "Sushi",
+        "date": "03-10-2022",
+        "image": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Shawarma",
+        "date": "03-10-2022",
+        "image": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Moussaka",
+        "date": "03-10-2022",
+        "image": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Stamppot",
+        "date": "03-10-2022",
+        "image": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg"
+      }
+   
+    ]
+  }

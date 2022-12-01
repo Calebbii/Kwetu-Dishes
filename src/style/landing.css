@@ -1,0 +1,19 @@
+
+#main {
+    background-color: rgb(238, 231, 225);
+    background-attachment: fixed;
+    height: 20cm;
+}
+img {
+    margin-left: 3cm;
+    margin-top: 1cm;
+}
+.landing {
+    float: left;
+}
+.title {
+    margin-top: 4cm;
+}
+.title h3 {
+    width: 35cm;
+}
